@@ -1,0 +1,7 @@
+{"level":"info","message":"The folder: ./logs was created","timestamp":"2022-11-07T12:54:17.868Z"}
+{"level":"debug","message":"Log from routes reqId: 97bd49a0-5e9b-11ed-8425-d9beccf55c3c","timestamp":"2022-11-07T12:56:27.707Z"}
+{"level":"debug","message":"Log from domain reqId: 97bd49a0-5e9b-11ed-8425-d9beccf55c3c","timestamp":"2022-11-07T12:56:27.707Z"}
+{"level":"debug","message":"Log from db reqId: 97bd49a0-5e9b-11ed-8425-d9beccf55c3c","timestamp":"2022-11-07T12:56:27.707Z"}
+{"level":"info","message":"Log from db after doing things reqId: 97bd49a0-5e9b-11ed-8425-d9beccf55c3c","timestamp":"2022-11-07T12:56:32.711Z"}
+{"level":"info","message":"Log from domain after doing things in DB reqId: 97bd49a0-5e9b-11ed-8425-d9beccf55c3c","timestamp":"2022-11-07T12:56:32.712Z"}
+{"level":"debug","message":"Log from routes after manage request reqId: 97bd49a0-5e9b-11ed-8425-d9beccf55c3c","timestamp":"2022-11-07T12:56:32.713Z"}
